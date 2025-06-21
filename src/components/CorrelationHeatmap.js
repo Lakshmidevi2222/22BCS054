@@ -1,6 +1,4 @@
-// src/components/CorrelationHeatmap.js
 import React from "react";
-
 const CorrelationHeatmap = () => {
   return (
     <div>
@@ -9,5 +7,4 @@ const CorrelationHeatmap = () => {
     </div>
   );
 };
-
 export default CorrelationHeatmap;
