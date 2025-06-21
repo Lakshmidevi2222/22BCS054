@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "stock-frontend",
   "version": "0.1.0",
   "private": true,
@@ -39,5 +40,20 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+=======
+  "name": "average-calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "accepts": "^2.0.0",
+    "express": "^5.1.0"
+>>>>>>> c2a96986918588e9b83d1758b37417621fd4eade
   }
 }
